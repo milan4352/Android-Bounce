@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bouncing Balls</string>
+    <string name="count_balls">balls</string>
+    <string name="clear">clear</string>
+</resources>
